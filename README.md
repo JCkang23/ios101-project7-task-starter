@@ -2,7 +2,7 @@
 
 Submitted by: **Josue Cikanga**
 
-**Tasks** is an app that allow users to create and manage tasks
+**Tasks** is an app that allows users to create and manage tasks
 
 Time spent: **12** hours spent in total
 
@@ -26,8 +26,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-    <a href="https://www.loom.com/share/2a267fb735db4373bf52e23f5b03cb95">
-            Simulator - iPhone 15 Pro - 7 April 2024 - Watch Video
+    <a href="https://www.loom.com/share/9829ff0311d4448e98192fa14b559a73">
+          Simulator - iPhone 15 Pro - 9 April 2024 - Watch Video
     </a>
 
 ## Notes
