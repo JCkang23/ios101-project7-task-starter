@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-    <a href="https://www.loom.com/share/9829ff0311d4448e98192fa14b559a73">
+    <a href="https://www.loom.com/share/bf9e0bc202794e12bc8faaca90cad7fd">
           Simulator - iPhone 15 Pro - 9 April 2024 - Watch Video
     </a>
 
